@@ -1,0 +1,37 @@
+<html style="background-color: rgba(116, 116, 221, 0.932);">
+    <head>
+        <title>Daftar Peringkat</title>
+        <style>
+            h1 {
+                color: black;
+            }
+        </style>
+        
+        <link rel="stylesheet"href="stylesheet.css">
+    <head>
+    <body bgcolor="white">
+        
+        <h1 style="color: white;">Daftar Mahasiswa</h1>
+    </head>
+    </body>  
+    
+    </head>
+    <body>
+        <h1>Daftar Mahasiswa Terbaik</h1>
+        <ol>
+            <li>nuzulia</li>
+            <li>lili</li>
+            <li>trilili</li>
+        </o1>
+<hr> 
+        <H4>Menu Favorit:</H4>
+        <ul>
+            <li>Seblak cikur</li>
+            <li>Es teler</li>
+            <li>boci maknyos</li>
+        </ul>
+    </body>
+</html>    
+
+
+
